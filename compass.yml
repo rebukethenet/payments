@@ -1,0 +1,14 @@
+name: payments
+id: 'ari:cloud:compass:fecd0fb5-2b28-49b0-9302-e0c22ed55d54:component/56c9dcff-3874-4a21-b16d-053c544f398d/39f0506b-32eb-4b6f-bd03-18a2cab43429'
+description: Show me the moneyyyyyy
+ownerId: 'ari:cloud:teams::team/67ab60b6-9cbf-4cd6-9ea0-46711b10d213'
+fields:
+  tier: 4
+links:
+  - name: Source Code
+    type: REPOSITORY
+    url: 'https://github.com/rebukethenet/payments'
+relationships: {}
+
+# Learn more about formatting compass.yml:
+# https://go.atlassian.com/compass-yml-format
